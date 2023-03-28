@@ -5,19 +5,37 @@ For this weekend you will be creating the full user interface for a mood tracker
 #### Note:
 Refer back to DJ Days React Demo from class for ideas...
 
-## Instructions
+## Instructions (** Monica's Notes)
 
 In this repository you have a basic pre-made React application that will serve as the foundation to your mood tracking app. You are required to create the following to set up the user interface:
 
 - A component folder to hold all your components
+    ** Done **
+
 - At least five components to cover the needs of your user interface. How you decide to divide up the parts of your site into components is up to you. Consider our discussion about Atomic Design in class (and check out this resource: https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
+    ** Not Started
+
 - At least three examples of using props to customize the content of your components
+    ** Not Started
 
 Your app needs to eventually be able to do the following:
 - Provide some sort of input (like a button, dropdown, input field, etc) for a user to mark how they're feeling
+    ** Plan to use drop down with 10 feelings to choose from
+
+    ** Stetch would be adding an iput field and button to add custom feeling
+
 - Provide some sort of input (like a button, dropdown, input field, etc) for a user to mark the day they are feeling a specific mood (can be exact date, day of the week, etc)
+    ** Create 7 buttons so the user can choose what day of the week it is
+
 - Have the components to allow a user to view all of their submissions so far in the mood tracker (such as a list showcasing what they've entered previously)
+    ** Similar to how the DJ Days project used a loop to list the albums 
+
+    ** Key value pairs could be Day of The Week: Monday, How I was Feeling: Happy
+
 - Basic elements like a header, etc
+    ** Header
+    ** Description of Mood Tracker
+    ** Instructions on how to track feelings
 
 ## Note: you do NOT have to add the functionality in yet!!!
 You just need to focus on creating the user interface
