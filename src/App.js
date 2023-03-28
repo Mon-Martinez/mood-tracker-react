@@ -11,7 +11,8 @@ function App() {
   return (
     <>
       <Header HeaderContent="Daily Mood Tracker"/>
-      <Description />
+      <Description DesciptionContent="Please use this space to keep track of how you're feeling each morning.
+      Creating space each morning to check-in with yourself can be a life changing habit."/>
       <Instructions />
       <DaysButton />
       <DropDown />
