@@ -10,13 +10,13 @@ import MoodOverview from './components/MoodOverview';
 function App() {
   return (
     <>
-    <Header />
-    <Description />
-    <Instructions />
-    <DaysButton />
-    <DropDown />
-    <Input />
-    <MoodOverview />
+      <Header HeaderContent="Daily Mood Tracker"/>
+      <Description />
+      <Instructions />
+      <DaysButton />
+      <DropDown />
+      <Input />
+      <MoodOverview />
     </>
   );
 }
