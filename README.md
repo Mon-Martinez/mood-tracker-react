@@ -13,7 +13,7 @@ In this repository you have a basic pre-made React application that will serve a
     ** Done **
 
 - At least five components to cover the needs of your user interface. How you decide to divide up the parts of your site into components is up to you. Consider our discussion about Atomic Design in class (and check out this resource: https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
-    ** Not Started
+    ** Done **
 
 - At least three examples of using props to customize the content of your components
     ** Not Started
