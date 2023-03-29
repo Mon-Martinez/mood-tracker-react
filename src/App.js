@@ -10,11 +10,17 @@ import MoodOverview from './components/MoodOverview';
 function App() {
   return (
     <>
-      <Header HeaderContent="Daily Mood Tracker"/>
+      <Header HeaderContent="Morning Mood Tracker"/>
       <Description DescriptionContent="We are here to help you keep track of how you're feeling each morning.
       Creating space each morning to check-in with yourself can be a life changing habit."/>
       <Instructions InstructionsContent="Step 1: Choose which day of the week it is..."/>
-      <DaysButton />
+      <DaysButton WeekButton="Monday"/>
+      <DaysButton WeekButton="Tuesday"/>
+      <DaysButton WeekButton="Wednesday"/>
+      <DaysButton WeekButton="Thursday"/>
+      <DaysButton WeekButton="Friday"/>
+      <DaysButton WeekButton="Saturday"/>
+      <DaysButton WeekButton="Sunday"/>
       <Instructions InstructionsContent="Step 2: Select the feeling that best describes your mood today..."/>
       <DropDown />
       <Instructions InstructionsContent="Step 3: Enter your name and click submit!"/>
