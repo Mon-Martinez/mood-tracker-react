@@ -17,6 +17,4 @@ export default Header;
 
 const HeaderText = styled.h1`
     text-align: center;
-    background-color: blue;
-    color: black;
 `
